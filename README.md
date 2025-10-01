@@ -1,4 +1,4 @@
-# Pizza-Sales-Analytics-Dashboar
+# Pizza-Sales-Analytics-Dashboard
 A full-stack business intelligence project built using Python, MySQL, pandas, SQLAlchemy, and Power BI to analyze pizza sales data and deliver actionable insights.
 Absolutely, Lukman — here’s a GitHub README that mirrors your LinkedIn post tone: professional, technical, and impact-driven. It’s structured to impress recruiters, peers, and showcase your full-stack analytics workflow.
 
